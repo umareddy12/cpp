@@ -20,7 +20,7 @@ int main()
 
     for (int i = n - 1; i >= 0; i--)
     {
-        cin >> array[i];
+        //cin >> array[i];
         cout << array[i] << " ";
     }
 
